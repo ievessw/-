@@ -1,2 +1,0 @@
-<html>
-<img align=center src="trip_big"></img>
