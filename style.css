@@ -1,0 +1,47 @@
+﻿#navbar {
+position:relative;
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        width: 300px;
+        top:-725px;
+      }
+      #navbar li {
+        border-bottom: 1px solid #666;
+      }
+      #navbar a {
+        background-color: #ffefd5;
+        color: #79553D;
+        padding: 50px;
+        text-decoration: none;
+        font-weight: bold;
+        border-left: 25px solid #A65E2E;
+        display: block;
+        font-size:25px;
+}
+body {
+  background: url(pngwing.com) #fdf5e6;
+}
+#main{
+padding-bottom: 0px;
+padding-left: 315px;
+padding-right:10px;
+padding-top:50px;
+margin:12px
+font-size:40px;
+color: #79553D;
+}
+.negr{
+position:relative;
+top:-725px;
+}
+.GG{
+position:relative;
+top:-675px;
+}
+p {
+  margin-top: -10px;
+  margin-bottom: 0px;
+line-height: 0,5;
+}
+
